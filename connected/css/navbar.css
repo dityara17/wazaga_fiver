@@ -1,0 +1,13 @@
+.nav-item:hover .sub {
+	background-color: #D3D3D3;
+	height: 5px;
+}
+
+.sub {
+	background-color: #E6E6FA;
+	height: 5px;
+}
+
+.navbar {
+	border-bottom: solid 1rem #343a40;
+}
